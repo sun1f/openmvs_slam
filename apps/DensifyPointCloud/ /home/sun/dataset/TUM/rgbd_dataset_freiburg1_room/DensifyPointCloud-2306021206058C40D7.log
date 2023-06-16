@@ -1,0 +1,7 @@
+12:06:05 [App     ] Build date: Jun  2 2023, 10:58:03
+12:06:06 [App     ] CPU: Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz (8 cores)
+12:06:06 [App     ] RAM: 15.52GB Physical Memory 15.26GB Virtual Memory
+12:06:06 [App     ] OS: Linux 5.15.0-72-generic (x86_64)
+12:06:06 [App     ] Disk: 22.44GB (161.86GB) space
+12:06:06 [App     ] SSE & AVX compatible CPU & OS detected
+12:06:06 [App     ] Command line: -w /home/sun/dataset/TUM/rgbd_dataset_freiburg1_room/ -i sfm.txt -o t_dense.mvs
